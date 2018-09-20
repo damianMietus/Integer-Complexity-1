@@ -1,7 +1,8 @@
 # By Damian Mietus
-# /r/DailyProgrammer
+# Reddit Daily Programmer
+# Challenge #354 [Easy] Integer Complexity 1
 # Completed May 9 2019
-#C hallenge #354 [Easy] Integer Complexity 1
+
 print("Input a number : ")
 
 a = input()
